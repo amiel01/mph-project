@@ -1,0 +1,120 @@
+﻿ukbcode,ukb_selfreport,charlsoncode
+1076,heart failure/pulmonary odema,chf
+1111,asthma,chronicpulm
+1112,chronic obstructive airways disease/copd,chronicpulm
+1113,emphysema/chronic bronchitis,chronicpulm
+1114,bronchiectasis,chronicpulm
+1115,interstitial lung disease,chronicpulm
+1136,liver/biliary/pancreas problem,livermild
+1155,hepatitis,livermild
+1156,infective/viral hepatitis,livermild
+1157,non-infective hepatitis,livermild
+1158,liver failure/cirrhosis,livermild
+1192,renal/kidney failure,renal
+1193,renal failure requiring dialysis,renal
+1194,renal failure not requiring dialysis,renal
+1252,paraplegia,plegia
+1263,dementia/alzheimers/cognitive impairment,dementia
+1276,diabetic eye disease,diabetes
+1376,giant cell/temporal arteritis,rheum
+1377,polymyalgia rheumatica,rheum
+1378,wegners granulmatosis,rheum
+1379,microscopic polyarteritis,rheum
+1380,polyartertis nodosa,rheum
+1381,systemic lupus erythematosis/sle,rheum
+1382,sjogren's syndrome/sicca syndrome,rheum
+1383,dermatopolymyositis,rheum
+1384,scleroderma/systemic sclerosis,rheum
+1412,bronchitis,chronicpulm
+1439,hiv/aids,hivaids
+1464,rheumatoid arthritis,rheum
+1468,diabetic neuropathy/ulcers,diabetes
+1578,hepatitis a,livermild
+1579,hepatitis b,livermild
+1580,hepatitis c,livermild
+1581,hepatitis d,livermild
+1582,hepatitis e,livermild
+1604,alcoholic liver disease / alcoholic cirrhosis,livermodsev
+1607,diabetic nephropathy,diabetes
+1001,lung cancer,malignancy
+1002,breast cancer,malignancy
+1003,skin cancer,malignancy
+1004,cancer of lip/mouth/pharynx/oral cavity,malignancy
+1005,salivary gland cancer,malignancy
+1006,larynx/throat cancer,malignancy
+1007,nasal cavity cancer,malignancy
+1008,ear cancer,malignancy
+1009,sinus cancer,malignancy
+1010,lip cancer,malignancy
+1011,tongue cancer,malignancy
+1012,gum cancer,malignancy
+1015,parotid gland cancer,malignancy
+1016,other salivary gland cancer,malignancy
+1017,oesophageal cancer,malignancy
+1018,stomach cancer,malignancy
+1019,small intestine/small bowel cancer,malignancy
+1020,large bowel cancer/colorectal cancer,malignancy
+1021,anal cancer,malignancy
+1022,colon cancer/sigmoid cancer,malignancy
+1023,rectal cancer,malignancy
+1024,liver/hepatocellular cancer,malignancy
+1025,gallbladder/bile duct cancer,malignancy
+1026,pancreas cancer,malignancy
+1027,small cell lung cancer,malignancy
+1028,non-small cell lung cancer,malignancy
+1029,peripheral nerve/autonomic nerve cancer,malignancy
+1030,eye and/or adnexal cancer,malignancy
+1031,meningeal cancer / malignant meningioma,malignancy
+1032,brain cancer / primary malignant brain tumour,malignancy
+1033,spinal cord or cranial nerve cancer,malignancy
+1034,kidney/renal cell cancer,malignancy
+1035,bladder cancer,malignancy
+1036,other cancer of urinary tract,malignancy
+1037,female genital tract cancer,malignancy
+1038,male genital tract cancer,malignancy
+1039,ovarian cancer,malignancy
+1040,uterine/endometrial cancer,malignancy
+1041,cervical cancer,malignancy
+1042,vaginal cancer,malignancy
+1043,vulval cancer,malignancy
+1044,prostate cancer,malignancy
+1045,testicular cancer,malignancy
+1046,penis cancer,malignancy
+1047,lymphoma,malignancy
+1048,leukaemia,malignancy
+1050,multiple myeloma,malignancy
+1051,myelofibrosis or myelodysplasia,malignancy
+1052,hodgkins lymphoma / hodgkins disease,malignancy
+1053,non-hodgkins lymphoma,malignancy
+1055,chronic lymphocytic,malignancy
+1056,chronic myeloid,malignancy
+1058,other haematological malignancy,malignancy
+1059,malignant melanoma,malignancy
+1060,non-melanoma skin cancer,malignancy
+1061,basal cell carcinoma,malignancy
+1062,squamous cell carcinoma,malignancy
+1063,primary bone cancer,malignancy
+1064,mesothelioma,malignancy
+1065,thyroid cancer,malignancy
+1066,parathyroid cancer,malignancy
+1067,adrenal cancer,malignancy
+1068,sarcoma/fibrosarcoma,malignancy
+1070,"malignant lymph node, unspecified",malignancy
+1071,metastatic cancer (unknown primary),mets
+1072,cin/pre-cancer cells cervix,malignancy
+1073,rodent ulcer,malignancy
+1074,acute myeloid leukaemia,malignancy
+1075,retinoblastoma,malignancy
+1076,kaposis sarcoma,malignancy
+1077,mouth cancer,malignancy
+1078,tonsil cancer,malignancy
+1079,oropharynx / oropharyngeal cancer,malignancy
+1080,trachea cancer,malignancy
+1081,thymus cancer / malignant thymoma,malignancy
+1082,heart / mediastinum cancer,malignancy
+1084,respiratory / intrathoracic cancer,malignancy
+1085,bone metastases / bony secondaries,mets
+1086,appendix cancer,malignancy
+1087,fallopian tube cancer,malignancy
+1088,malignant insulinoma,malignancy
+1141,oesophageal varicies,livermodsev
